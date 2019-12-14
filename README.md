@@ -24,13 +24,16 @@ Maria requested the following additional analysis after the original requirement
 * Group Scores by School Type (District, Charter)
 
 # Conclusions Drawn from Data Analysis
+The Complete Analysis for Challenge 4 is contained in the Challenge4 pdf file in this repository. Please see this for complete results, printouts from python program and more detailed conclusions. 
+
+Additional general conclusions not in Challenge 4 report:
 * There was a loose inverse relationship between per capita spending and overall school performanceno with the highest spending schools having the worse performance.  
 * There was an inverse relationship between school size and performance of students - with the best performing schools being the smallest schools. 
 * There was a correlation between school type - with Charter Schools (which were also the smallest populations) showing the best student performance. It is not know if the size of the school or the fact that they are Charter schools which may have contributed to the higher performance. 
 * Further drill-down or study might be useful for the board. 
 
 # Challenge 4 
-The results for Challenge 4 are contained in the file PyCitySchools_Challenge4.ipynb.
+The results for Challenge 4 are contained in the file PyCitySchools_Challenge4.ipynb and its corresponding report Challenge4.pdf.
 
 Maria and her supervisor have discovered that the score averages for ninth graders from one high school are incorrect. Maria has asked you to remove the math and reading scores for that high school, but without removing those ninth-grade students from the analysis.
 
@@ -39,6 +42,7 @@ The grades of the ninth graders at Thomas High School have been changed. While a
 After assessing the situation with the school superintendent and Maria, you decide the best approach is to:
 * Remove the ninth-grade math and reading scores from Thomas High School.
 * Keep all other data associated with the ninth-grade students and Thomas High School intact.
+* Show data before removal and after removal and draw conclusions. 
 
 
 
