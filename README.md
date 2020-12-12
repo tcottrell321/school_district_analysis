@@ -1,4 +1,4 @@
-School Analysis
+# School Analysis
 The objective of this module was to take 2 CSV files reflecting test results from 14 different schools in the district. The analysis was conducted under the supervision of a Senior Data Scientist - Maria. Maria provided the interface between the Clients - the School District Board - and our work - to answer the questions relevant to the School Board. 
 
 New questions -- and required analysis -- emerged as the original requests were completed. These additional analysis requirements were added to the scope of the project - and full-filled. 
