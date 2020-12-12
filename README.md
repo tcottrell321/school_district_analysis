@@ -1,7 +1,7 @@
-PyCitySchool Analysis
+School Analysis
 The objective of this module was to take 2 CSV files reflecting test results from 14 different schools in the district. The analysis was conducted under the supervision of a Senior Data Scientist - Maria. Maria provided the interface between the Clients - the School District Board - and our work - to answer the questions relevant to the School Board. 
 
-As in real life, new questions -- and required analysis -- emerged as the original requests were completed. These additional analysis requirements were added to the scope of the project - and full-filled. 
+New questions -- and required analysis -- emerged as the original requests were completed. These additional analysis requirements were added to the scope of the project - and full-filled. 
 
 # Resources
 1) Python 3.6.9 environment
@@ -24,7 +24,7 @@ Maria requested the following additional analysis after the original requirement
 * Group Scores by School Type (District, Charter)
 
 # Conclusions Drawn from Data Analysis
-The Complete Analysis for Challenge 4 is contained in the Challenge4 pdf file in this repository. Please see this for complete results, printouts from python program and more detailed conclusions. 
+The Complete Analysis is contained in the Challenge4 pdf file in this repository. Please see this for complete results, printouts from python program and more detailed conclusions. 
 
 Additional general conclusions not in Challenge 4 report:
 * There was a loose inverse relationship between per capita spending and overall school performanceno with the highest spending schools having the worse performance.  
